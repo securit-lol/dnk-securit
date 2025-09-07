@@ -1,6 +1,8 @@
 #include <iostream>
-
+using namespace std;
 int main() {
-    std::cout << "Привет мир!" << std::endl;
+
+    std::cout << "0_0" << std::endl;
+    
     return 0;
 }
